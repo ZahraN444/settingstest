@@ -1,6 +1,6 @@
 {
     "OpenAPIDefinitionPaths": [
-        ""
+        "US Payment API (Common)-OpenApi3Json.json"
     ],
     "IgnoreValidationErrors": true
 }
