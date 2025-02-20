@@ -2,7 +2,7 @@
   "openapi": "3.0.0",
   "info": {
     "title": "US Payment API (Common)",
-    "description": "New UccS Paymxxent API supporting both CNP and CP designed by the RAFT and Express Teams.\n* Implemented **paymentMethod** + **entryMethod** approach\n\n**Revision History**\n| Date         | Who     | Description                             |\n| ------------ | ------- | ----------------------------------------|\n| 19.Oct-2023  | Dana F   | Refresh from 1.0.6, CoF as optional object vs. Entry Method |\n",
+    "description": "New UccS Paymxxent API supporting boddth CNP and CP designed by the RAFT and Express Teams.\n* Implemented **paymentMethod** + **entryMethod** approach\n\n**Revision History**\n| Date         | Who     | Description                             |\n| ------------ | ------- | ----------------------------------------|\n| 19.Oct-2023  | Dana F   | Refresh from 1.0.6, CoF as optional object vs. Entry Method |\n",
     "contact": {
       "name": "US Core/IP/ESA Payment API Team",
       "email": "tom.bruns@fisglobal.com"
